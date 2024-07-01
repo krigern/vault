@@ -1450,8 +1450,6 @@ github.com/hashicorp/go-msgpack v0.5.3/go.mod h1:ahLV/dePpqEmjfWmKiqvPkv/twdG7iP
 github.com/hashicorp/go-msgpack v0.5.5/go.mod h1:ahLV/dePpqEmjfWmKiqvPkv/twdG7iPBM1vqhUKIvfM=
 github.com/hashicorp/go-msgpack v1.1.5 h1:9byZdVjKTe5mce63pRVNP1L7UAmdHOTEMGehn6KvJWs=
 github.com/hashicorp/go-msgpack v1.1.5/go.mod h1:gWVc3sv/wbDmR3rQsj1CAktEZzoz1YNK9NfGLXJ69/4=
-github.com/hashicorp/go-msgpack/v2 v2.1.1 h1:xQEY9yB2wnHitoSzk/B9UjXWRQ67QKu5AOm8aFp8N3I=
-github.com/hashicorp/go-msgpack/v2 v2.1.1/go.mod h1:upybraOAblm4S7rx0+jeNy+CWWhzywQsSRV5033mMu4=
 github.com/hashicorp/go-msgpack/v2 v2.1.2 h1:4Ee8FTp834e+ewB71RDrQ0VKpyFdrKOjvYtnQ/ltVj0=
 github.com/hashicorp/go-msgpack/v2 v2.1.2/go.mod h1:upybraOAblm4S7rx0+jeNy+CWWhzywQsSRV5033mMu4=
 github.com/hashicorp/go-multierror v1.0.0/go.mod h1:dHtQlpGsu+cZNNAkkCN/P3hoUDHhCYQXV3UM06sGGrk=
@@ -1545,8 +1543,6 @@ github.com/hashicorp/nomad/api v0.0.0-20240213164230-c364cb57298d/go.mod h1:ijDw
 github.com/hashicorp/raft v1.0.1/go.mod h1:DVSAWItjLjTOkVbSpWQ0j0kUADIvDaCtBxIcbNAQLkI=
 github.com/hashicorp/raft v1.1.2-0.20191002163536-9c6bd3e3eb17/go.mod h1:vPAJM8Asw6u8LxC3eJCUZmRP/E4QmUGE1R7g7k8sG/8=
 github.com/hashicorp/raft v1.2.0/go.mod h1:vPAJM8Asw6u8LxC3eJCUZmRP/E4QmUGE1R7g7k8sG/8=
-github.com/hashicorp/raft v1.6.1 h1:v/jm5fcYHvVkL0akByAp+IDdDSzCNCGhdO6VdB56HIM=
-github.com/hashicorp/raft v1.6.1/go.mod h1:N1sKh6Vn47mrWvEArQgILTyng8GoDRNYlgKyK7PMjs0=
 github.com/hashicorp/raft v1.7.0 h1:4u24Qn6lQ6uwziM++UgsyiT64Q8GyRn43CV41qPiz1o=
 github.com/hashicorp/raft v1.7.0/go.mod h1:N1sKh6Vn47mrWvEArQgILTyng8GoDRNYlgKyK7PMjs0=
 github.com/hashicorp/raft-autopilot v0.2.0 h1:2/R2RPgamgRKgNWGQioULZvjeKXQZmDuw5Ty+6c+H7Y=
@@ -1586,8 +1582,8 @@ github.com/hashicorp/vault-plugin-database-elasticsearch v0.15.0 h1:RGH87sxehWL7
 github.com/hashicorp/vault-plugin-database-elasticsearch v0.15.0/go.mod h1:LYqjVkcdXvGCPDdYNeOM0j3MqWSkMAWeZ4r++Xn+tS8=
 github.com/hashicorp/vault-plugin-database-mongodbatlas v0.12.0 h1:SQLOOQcF/BuKXh/6AnVYTbCrwyK9MlqzP6AVaqZBAMA=
 github.com/hashicorp/vault-plugin-database-mongodbatlas v0.12.0/go.mod h1:++CfUO0B7GQk2dy6nawWVMcNHKdA1nhxoZx6dbMbudI=
-github.com/hashicorp/vault-plugin-database-redis v0.3.0 h1:chSbAsc7cYkn5ajQ/528nKoCm9ExGpJaDjTDos2IUa4=
-github.com/hashicorp/vault-plugin-database-redis v0.3.0/go.mod h1:Tr6VELF9q/VAslIO7+ROykrzrvEONVaONrcsthX9qcY=
+github.com/hashicorp/vault-plugin-database-redis v0.3.1-0.20240701001434-7408c2a7d00c h1:grriQBGQtRY7W9w1Hd9W/VUC8Uf6xPMkeUj+T/vQdFI=
+github.com/hashicorp/vault-plugin-database-redis v0.3.1-0.20240701001434-7408c2a7d00c/go.mod h1:TT+8djKY/4xnx0ROBSQESblK3h+z0DtuMgzrZEJpQaY=
 github.com/hashicorp/vault-plugin-database-redis-elasticache v0.4.0 h1:kU6zic2/iIo40kUKzRvTIj1TozcC1T0sqkWimV5e290=
 github.com/hashicorp/vault-plugin-database-redis-elasticache v0.4.0/go.mod h1:KQmyYsR5CfoTPSjQqXq6TO9QqucESSga9f+bph+Rx74=
 github.com/hashicorp/vault-plugin-database-snowflake v0.11.0 h1:LsBrVl6/bHtn2kCyPAU+ki33iHPBMrOFVzzRvDt3c1g=
@@ -2644,8 +2640,6 @@ golang.org/x/sys v0.8.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.12.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.17.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/sys v0.18.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
-golang.org/x/sys v0.20.0 h1:Od9JTbYCk261bKm4M/mw7AklTlFYIa0bIp9BgSm1S8Y=
-golang.org/x/sys v0.20.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/sys v0.21.0 h1:rF+pYz3DAGSQAxAu1CbC7catZg4ebC4UIeIhKxBZvws=
 golang.org/x/sys v0.21.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/term v0.0.0-20201117132131-f5c789dd3221/go.mod h1:Nr5EML6q2oocZ2LXRh80K7BxOlk5/8JxuGnuhpl+muw=
